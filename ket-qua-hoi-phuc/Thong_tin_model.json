@@ -1,0 +1,14 @@
+{
+  "selected_model": "Original Muaxla Hybrid",
+  "checkpoint_sha256": "cb5f8f3f7d7c1fdd9d74298f000d29850655b89bd98364a6a3d7a426017edda2",
+  "checkpoint_bytes": 57002823,
+  "inference": {
+    "tile": 384,
+    "overlap": 128,
+    "precision": "FP32",
+    "input": "single image or image folder"
+  },
+  "status": "selected existing baseline; no successful >=5percent extra restoration gain; no new final test evaluation",
+  "source_license": "Restormer MIT license included",
+  "date": "2026-10-29"
+}
