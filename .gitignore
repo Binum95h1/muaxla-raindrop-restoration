@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+*.pt
+*.zip
+.venv/
+.env
+Anh_da_phuc_hoi/
+**/Anh_da_phuc_hoi/
